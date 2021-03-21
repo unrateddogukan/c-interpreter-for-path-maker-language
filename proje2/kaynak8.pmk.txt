@@ -1,0 +1,6 @@
+if <deneme> {
+    go <*>; 
+    make <a1/b1>; 
+    if <a1/b1> 
+        go <a1/b1>;
+}

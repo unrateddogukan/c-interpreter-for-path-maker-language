@@ -1,0 +1,3 @@
+if <*/proje2>
+    make <a?1asd/b.1>;
+go <a1/b1>;

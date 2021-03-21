@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1592181241 source:c:\users\doguk\desktop\codeblocksprojects\proje2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<windows.h>
+	<dirent.h>
+
